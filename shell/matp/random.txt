@@ -1,0 +1,1004 @@
+sleep 6&
+sleep 4&
+sleep 5&
+fg 5
+jobs
+sleep 7&
+kill -9 3
+kill -18 3 zevel
+sleep 6&
+showpid zevel
+kill -9 3
+sleep 3&
+jobs
+showpid zevel
+bg
+cd -
+fg 4
+jobs
+sleep 7&
+cd ..
+bg
+pwd
+sleep 4&
+bg
+jobs
+kill -18 2
+pwd zevel
+kill -9 3
+fg 2
+chprompt 
+jobs
+sleep 4&
+bg
+chprompt etayle
+bg
+sleep 6&
+showpid
+bg
+kill -19 2
+sleep 5&
+chprompt 
+showpid
+sleep 4&
+kill -18 3
+sleep 7&
+sleep 6&
+chprompt test
+sleep 7&
+cd ..
+sleep 4&
+sleep 3&
+showpid
+kill -19 2
+sleep 4&
+jobs
+bg
+showpid
+jobs
+jobs
+chprompt test
+fg 5
+cd ..
+fg 3
+sleep 3&
+bg
+jobs
+chprompt 
+sleep 5&
+jobs
+sleep 6&
+sleep 6&
+chprompt 
+sleep 4&
+fg 4
+jobs
+chprompt test
+kill -18 1
+bg
+sleep 4&
+showpid
+pwd
+jobs
+showpid
+showpid zevel
+jobs
+cd ..
+fg 3
+fg 3
+kill -9 3
+cd .. zevel
+bg
+kill -18 2
+bg
+jobs zevel
+sleep 7&
+sleep 7&
+jobs
+sleep 3&
+showpid
+cd .. zevel
+kill -9 1
+pwd
+bg
+bg
+showpid zevel
+bg
+cd ..
+showpid
+cd ..
+fg 4
+showpid
+showpid
+sleep 4&
+pwd
+showpid
+jobs
+sleep 7&
+chprompt 
+sleep 4&
+sleep 7&
+showpid zevel
+pwd
+bg
+chprompt test
+chprompt 
+sleep 5&
+sleep 6&
+fg 4
+showpid
+jobs
+fg 1
+chprompt 
+chprompt 
+chprompt 
+kill -18 2
+showpid
+fg 2
+chprompt etayle
+cd ..
+showpid
+chprompt test
+sleep 7&
+bg
+sleep 6&
+kill -9 3
+sleep 6&
+showpid
+sleep 4&
+showpid
+bg zevel
+sleep 4&
+chprompt etayle
+chprompt 
+fg 3
+sleep 5&
+bg
+fg 3
+jobs
+sleep 5&
+fg 2
+cd ..
+chprompt test
+sleep 4&
+bg
+jobs
+chprompt 
+showpid
+showpid
+pwd
+chprompt 
+sleep 5&
+cd -
+kill -9 2
+sleep 5&
+sleep 4&
+sleep 7&
+sleep 6&
+kill -9 2
+fg 5
+pwd
+cd ..
+sleep 4&
+kill -18 2 zevel
+cd -
+kill -19 3
+jobs
+kill -19 1
+chprompt test
+showpid
+pwd zevel
+sleep 4&
+chprompt test
+sleep 4&
+sleep 7&
+cd -
+sleep 7&
+chprompt 
+bg
+fg 1
+chprompt test
+sleep 7&
+bg
+pwd
+cd ..
+showpid
+fg 5
+cd -
+kill -19 2
+fg 5
+cd .. zevel
+sleep 3&
+chprompt test
+chprompt etayle
+chprompt 
+sleep 6&
+sleep 7&
+sleep 6&
+showpid
+bg
+kill -9 2
+sleep 7&
+jobs
+cd ..
+sleep 7&
+fg 3
+fg 4
+showpid zevel
+chprompt test
+fg 4
+chprompt etayle
+cd ..
+fg 2
+showpid
+jobs
+jobs zevel
+sleep 4&
+cd ..
+kill -9 3
+fg 4
+bg zevel
+kill -18 1 zevel
+kill -19 2
+bg
+pwd
+cd -
+chprompt test
+kill -19 3
+jobs
+bg
+sleep 4&
+bg
+sleep 3&
+pwd
+kill -9 1 zevel
+pwd
+showpid
+fg 3
+jobs
+chprompt test
+sleep 6&
+pwd
+cd -
+cd ..
+showpid
+pwd
+jobs
+pwd
+pwd
+showpid
+kill -19 3
+bg zevel
+sleep 3&
+bg
+bg
+chprompt 
+cd ..
+bg
+chprompt 
+kill -18 1
+kill -9 2
+bg
+chprompt 
+kill -18 1
+pwd
+showpid
+showpid zevel
+showpid
+bg
+jobs
+jobs
+jobs
+sleep 7&
+sleep 4&
+pwd
+cd ..
+pwd
+sleep 4&
+kill -18 1
+jobs zevel
+sleep 7&
+sleep 4&
+sleep 4&
+sleep 6&
+fg 4
+showpid
+jobs
+kill -19 1
+cd ..
+showpid
+jobs
+bg
+sleep 7&
+pwd
+showpid zevel
+sleep 7&
+sleep 6&
+cd ..
+cd ..
+kill -19 2 zevel
+sleep 6&
+cd ..
+bg
+fg 4
+bg zevel
+bg
+jobs
+fg 2
+jobs
+kill -19 1 zevel
+fg 2
+jobs
+sleep 5&
+bg
+sleep 6&
+chprompt 
+kill -9 2
+cd -
+sleep 5&
+showpid
+fg 3
+sleep 4&
+fg 3
+chprompt 
+pwd
+cd ..
+bg
+pwd zevel
+jobs
+bg
+showpid
+fg 4
+showpid
+showpid
+sleep 4&
+chprompt 
+jobs
+bg
+showpid zevel
+jobs
+cd .. zevel
+bg
+showpid zevel
+sleep 5&
+jobs
+bg
+jobs zevel
+kill -9 2 zevel
+bg
+kill -18 1
+sleep 5&
+kill -19 1
+kill -19 1 zevel
+pwd
+sleep 5&
+jobs
+showpid
+sleep 4&
+jobs
+fg 4
+jobs zevel
+bg
+jobs
+chprompt 
+chprompt 
+bg
+fg 5
+fg 4
+chprompt test
+jobs
+chprompt 
+sleep 4&
+chprompt 
+jobs
+cd -
+jobs
+pwd
+kill -18 2
+pwd zevel
+sleep 5&
+sleep 6&
+cd ..
+fg 3
+pwd
+cd -
+kill -18 1
+chprompt test
+bg
+showpid
+fg 2
+fg 1
+chprompt 
+cd ..
+chprompt test
+jobs
+kill -19 3
+pwd
+cd ..
+kill -18 1
+cd .. zevel
+bg
+bg
+jobs
+bg
+fg 5
+cd -
+fg 3
+jobs
+cd -
+sleep 5&
+sleep 5&
+showpid
+sleep 4&
+sleep 6&
+bg
+sleep 7&
+jobs
+fg 1
+sleep 3&
+cd -
+sleep 5&
+bg
+cd ..
+chprompt 
+chprompt 
+kill -9 2
+kill -18 3
+pwd
+bg
+bg zevel
+chprompt 
+chprompt test
+pwd
+jobs
+chprompt test
+showpid
+bg
+pwd
+fg 4
+chprompt test
+pwd
+cd -
+bg
+pwd
+jobs
+jobs
+pwd
+cd ..
+kill -19 3
+chprompt 
+sleep 4&
+kill -9 2
+kill -19 2 zevel
+pwd
+fg 3
+pwd
+kill -9 1
+pwd
+sleep 3&
+chprompt test
+cd ..
+bg
+showpid zevel
+kill -18 2
+sleep 4&
+kill -19 3
+showpid zevel
+cd -
+kill -19 3
+cd ..
+bg
+cd ..
+sleep 3&
+sleep 6&
+sleep 7&
+cd .. zevel
+chprompt etayle
+kill -19 3
+fg 1
+showpid
+sleep 7&
+kill -19 2
+sleep 7&
+cd ..
+showpid
+pwd
+fg 5
+fg 4
+sleep 3&
+fg 2
+pwd
+showpid
+sleep 3&
+bg
+bg
+showpid
+fg 3
+jobs
+kill -9 2
+kill -19 3
+fg 1
+jobs
+fg 4
+fg 4
+pwd
+bg
+jobs zevel
+showpid
+kill -19 3
+cd ..
+bg
+kill -9 2
+fg 3
+fg 1
+sleep 5&
+sleep 6&
+sleep 7&
+fg 3
+sleep 6&
+showpid
+bg
+jobs
+fg 2
+fg 5
+jobs zevel
+pwd
+jobs
+jobs
+jobs
+bg
+fg 4
+fg 4
+showpid zevel
+pwd
+jobs
+showpid
+kill -9 2
+sleep 5&
+pwd
+cd -
+pwd
+fg 2
+showpid
+kill -19 2
+cd ..
+chprompt etayle
+fg 4
+chprompt etayle
+cd ..
+fg 3
+kill -9 3
+sleep 4&
+sleep 6&
+showpid
+pwd
+cd -
+pwd
+chprompt etayle
+chprompt etayle
+showpid
+bg
+pwd
+bg zevel
+bg
+jobs
+sleep 4&
+chprompt etayle
+sleep 5&
+fg 2
+chprompt test
+sleep 4&
+sleep 7&
+fg 5
+bg
+sleep 4&
+showpid
+showpid
+chprompt 
+sleep 6&
+bg zevel
+sleep 3&
+bg
+bg
+kill -18 1
+bg zevel
+kill -18 2
+cd ..
+kill -18 1
+pwd
+sleep 6&
+sleep 3&
+kill -18 3
+kill -18 1
+sleep 5&
+pwd
+bg
+showpid
+fg 3
+bg
+fg 5
+fg 2
+sleep 3&
+bg
+bg
+sleep 7&
+fg 1
+jobs
+fg 3
+jobs
+cd -
+jobs zevel
+fg 5
+sleep 4&
+jobs
+kill -9 1
+fg 5
+jobs
+showpid
+cd ..
+kill -18 2
+bg
+bg
+fg 2
+sleep 5&
+bg
+jobs zevel
+showpid
+bg zevel
+sleep 5&
+cd -
+showpid
+pwd
+bg
+showpid
+pwd
+chprompt etayle
+cd ..
+pwd
+sleep 3&
+sleep 5&
+bg
+fg 1
+fg 2
+sleep 7&
+sleep 5&
+jobs zevel
+sleep 6&
+kill -9 3 zevel
+pwd
+cd ..
+chprompt etayle
+sleep 3&
+bg
+bg
+bg
+chprompt etayle
+jobs zevel
+pwd
+cd ..
+jobs
+sleep 4&
+showpid
+sleep 5&
+sleep 7&
+jobs
+chprompt 
+pwd
+kill -9 2
+sleep 6&
+chprompt test
+cd -
+pwd
+showpid
+kill -19 2
+sleep 5&
+showpid
+kill -9 1
+showpid
+jobs
+kill -19 2
+chprompt 
+cd ..
+cd -
+sleep 4&
+sleep 7&
+kill -18 1
+jobs
+jobs
+chprompt test
+fg 3
+pwd
+cd ..
+kill -18 1
+showpid
+sleep 6&
+fg 1
+jobs
+cd ..
+pwd
+cd ..
+bg
+jobs
+pwd
+fg 1
+sleep 3&
+sleep 6&
+chprompt 
+kill -9 2
+cd ..
+jobs
+showpid
+cd .. zevel
+sleep 4&
+pwd
+fg 4
+sleep 5&
+pwd
+sleep 4&
+cd ..
+cd -
+sleep 3&
+fg 3
+kill -19 2
+showpid
+pwd
+bg
+sleep 6&
+kill -18 3
+sleep 7&
+sleep 4&
+chprompt test
+sleep 5&
+jobs
+sleep 7&
+pwd
+sleep 5&
+sleep 5&
+sleep 6&
+sleep 5&
+jobs
+fg 1
+jobs
+sleep 3&
+fg 5
+sleep 7&
+showpid
+fg 4
+cd .. zevel
+sleep 6&
+jobs
+pwd
+cd ..
+kill -9 3
+bg zevel
+fg 5
+pwd zevel
+bg zevel
+bg
+chprompt etayle
+jobs
+showpid
+kill -19 2
+cd ..
+fg 4
+chprompt 
+fg 1
+jobs zevel
+pwd
+fg 5
+kill -19 2
+fg 2
+sleep 3&
+kill -18 3
+jobs
+cd ..
+jobs
+sleep 5&
+sleep 7&
+cd .. zevel
+showpid zevel
+kill -19 2
+bg zevel
+cd ..
+sleep 6&
+bg
+pwd zevel
+sleep 7&
+cd ..
+cd ..
+kill -19 1
+sleep 6&
+chprompt 
+fg 5
+jobs
+pwd
+cd .. zevel
+kill -18 2
+bg
+fg 4
+cd .. zevel
+jobs
+sleep 4&
+cd ..
+chprompt 
+kill -9 3
+fg 2
+bg zevel
+showpid
+cd ..
+kill -9 1
+pwd
+chprompt etayle
+cd -
+showpid
+showpid
+bg
+jobs
+showpid
+fg 4
+pwd
+sleep 6&
+cd .. zevel
+chprompt etayle
+pwd
+pwd
+showpid
+jobs
+jobs
+jobs
+pwd
+kill -9 2
+chprompt etayle
+cd ..
+sleep 4&
+fg 1
+cd ..
+sleep 6&
+pwd
+showpid zevel
+sleep 6&
+jobs
+showpid
+fg 4
+pwd
+sleep 7&
+bg zevel
+sleep 3&
+sleep 5&
+pwd
+sleep 7&
+chprompt etayle
+sleep 7&
+chprompt test
+cd ..
+fg 4
+pwd
+showpid
+sleep 3&
+fg 3
+kill -9 2
+showpid
+sleep 4&
+jobs
+chprompt test
+showpid
+pwd
+sleep 4&
+kill -18 2
+showpid
+cd -
+jobs
+showpid
+cd ..
+chprompt 
+jobs
+kill -9 2
+sleep 6&
+jobs
+showpid
+fg 1
+bg
+chprompt etayle
+kill -9 1
+jobs
+showpid
+chprompt etayle
+sleep 7&
+kill -9 2 zevel
+pwd zevel
+chprompt test
+chprompt etayle
+showpid
+chprompt 
+cd -
+kill -19 2 zevel
+bg zevel
+jobs
+cd -
+sleep 6&
+jobs zevel
+cd ..
+fg 2
+bg
+cd ..
+bg
+cd ..
+sleep 3&
+kill -19 3 zevel
+sleep 6&
+kill -18 2 zevel
+fg 1
+jobs
+pwd zevel
+sleep 7&
+pwd
+cd ..
+sleep 4&
+sleep 6&
+showpid
+bg
+sleep 4&
+showpid
+sleep 6&
+jobs zevel
+chprompt etayle
+showpid
+kill -18 1
+chprompt test
+sleep 5&
+sleep 6&
+kill -18 1
+cd -
+pwd
+pwd
+kill -19 3
+bg
+kill -19 1
+chprompt test
+kill -19 2
+bg
+sleep 4&
+bg
+fg 2
+pwd
+showpid
+kill -18 2
+sleep 4&
+cd -
+jobs zevel
+sleep 3&
+jobs
+chprompt test
+sleep 7&
+showpid
+jobs
+pwd
+showpid
+fg 2
+chprompt 
+kill -19 3
+kill -18 2
+showpid
+fg 3
+sleep 3&
+sleep 4&
+showpid
+fg 3
+pwd
+fg 2
+cd -
+cd -
+cd -
+jobs
+cd -
+cd ..
+cd -
+chprompt 
+pwd
+showpid
+cd ..
+sleep 6&
+kill -18 2
+showpid
+cd -
+quit kill
