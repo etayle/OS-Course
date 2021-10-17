@@ -4,6 +4,7 @@
 #include <vector>
 #include <list>
 #include <time.h>
+#include <string>
 using namespace std;
 
 #define COMMAND_ARGS_MAX_LENGTH (200)
